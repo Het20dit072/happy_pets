@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\bf2b0aa7ecc987b6f2a9aee44405a297\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\bf2b0aa7ecc987b6f2a9aee44405a297\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\bf2b0aa7ecc987b6f2a9aee44405a297\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\bf2b0aa7ecc987b6f2a9aee44405a297\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\bf2b0aa7ecc987b6f2a9aee44405a297\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

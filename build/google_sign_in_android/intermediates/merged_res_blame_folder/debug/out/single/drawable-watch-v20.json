@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\d0a5c4ff936f2a6763964a7b803269ee\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\d0a5c4ff936f2a6763964a7b803269ee\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\d0a5c4ff936f2a6763964a7b803269ee\\transformed\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

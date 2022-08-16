@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\video_player_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\374b747b8280c35cbf9be6fa1b7562c7\\transformed\\core-1.7.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\video_player_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\374b747b8280c35cbf9be6fa1b7562c7\\transformed\\core-1.7.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\video_player_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\374b747b8280c35cbf9be6fa1b7562c7\\transformed\\core-1.7.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\5 SEM\\SGP\\happy_pets\\build\\video_player_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\praja\\.gradle\\caches\\transforms-3\\374b747b8280c35cbf9be6fa1b7562c7\\transformed\\core-1.7.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

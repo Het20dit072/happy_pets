@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">204718107650-mq1s745nibei6c899ij0iu63b76adnkc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">204718107650</string>
+    <string name="google_api_key" translatable="false">AIzaSyAsN28IgquO9d9xvW90Wi7JJQW1nQzXNK0</string>
+    <string name="google_app_id" translatable="false">1:204718107650:android:c7394464c6072261de0b1b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsN28IgquO9d9xvW90Wi7JJQW1nQzXNK0</string>
+    <string name="google_storage_bucket" translatable="false">happypets-a47d0.appspot.com</string>
+    <string name="project_id" translatable="false">happypets-a47d0</string>
+</resources>
